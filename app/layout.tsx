@@ -1,10 +1,5 @@
 import "./globals.css";
 
-export const metadata = {
-  title: "Woodlands Academy",
-  description: "Woodlands Academy Portal",
-};
-
 export default function RootLayout({
   children,
 }: {
